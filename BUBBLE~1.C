@@ -5,6 +5,7 @@ ascending order */
 #include<conio.h>
 
 int temp, len, i, j, k, l;
+// Array to sort
 int num[] = {9, 5, 1, 7, 2};
 
 void main()
